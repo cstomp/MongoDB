@@ -1,5 +1,4 @@
 # MongoDB
-Create queries
 This was for the movies created in 2014 and had a imb rating higher than 9
 ![Screenshot 2024-03-26 203034](https://github.com/cstomp/MongoDB/assets/98862811/9e5ef43e-bce5-45af-8757-f92efed362d3)
 
